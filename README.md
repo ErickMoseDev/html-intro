@@ -24,5 +24,5 @@ The structure of a HTML page involves the following elements:
 
 ## Resources
 
-[Web.dev ](https://web.dev/learn/html)
-[Mozilla Documentation](https://developer.mozilla.org/en-US/docs/Web/HTML)
+-   [Web.dev ](https://web.dev/learn/html)
+-   [Mozilla Documentation](https://developer.mozilla.org/en-US/docs/Web/HTML)
