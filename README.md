@@ -21,3 +21,8 @@ The structure of a HTML page involves the following elements:
 	</body>
 </html>
 ```
+
+## Resources
+
+[Web.dev ](https://web.dev/learn/html)
+[Mozilla Documentation](https://developer.mozilla.org/en-US/docs/Web/HTML)
